@@ -49,22 +49,6 @@ I'm a **Biomedical Engineer and Software Developer** with professional experienc
 
 ---
 
-## ⚡ Tech Expertise
-
-<div align="center">
-
-| 🗄️ Database Engineering | ⚙️ Backend Development |
-|:---:|:---:|
-| PostgreSQL · SQL · Database Design | Node.js · Express · Java |
-
-| 💻 Frontend Development | 📊 Data Analytics |
-|:---:|:---:|
-| React · Angular · JavaScript | Power BI · Reporting · SQL |
-
-</div>
-
----
-
 ## 🚀 Currently Building
 
 ### 🌙 NØX — Nightlife Management
