@@ -85,11 +85,10 @@ A web application for personalized natal chart experiences.
 
 ## 📊 GitHub Statistics
 
+
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=pardov21&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pardov21&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pardov21&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="David Pardo GitHub Stats" />
+</div>
 
 </div>
 
