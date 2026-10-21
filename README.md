@@ -5,7 +5,7 @@
 
 ### Software Engineer | Backend Developer | Data Analyst
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Building+Scalable+Software;Backend+%26+Database+Development;Turning+Data+Into+Insights;Always+Learning+New+Technologies" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Building+Scalable+Software;FullStack+%26+Database+Development;Turning+Data+Into+Insights;Always+Learning+New+Technologies" alt="Typing SVG" />
 
 🌎 Based in Mexico | Originally from Colombia
 
