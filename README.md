@@ -49,60 +49,54 @@ I'm a **Biomedical Engineer and Software Developer** with professional experienc
 
 ---
 
-## 🚀 Featured Projects
+## ⚡ Tech Expertise
 
-### 🌙 NØX — Nightlife Management Platform
-A SaaS solution for nightclub operations.
+<div align="center">
 
-- QR-based reservation management
-- Role-based access for admins and promoters
-- Table assignment and reservation tracking
-- PostgreSQL database architecture
+| 🗄️ Database Engineering | ⚙️ Backend Development |
+|:---:|:---:|
+| PostgreSQL · SQL · Database Design | Node.js · Express · Java |
 
-**Stack:** React · Node.js · Express · PostgreSQL
+| 💻 Frontend Development | 📊 Data Analytics |
+|:---:|:---:|
+| React · Angular · JavaScript | Power BI · Reporting · SQL |
 
-### 🐾 BraunVel — Veterinary Management Platform
-A platform designed to simplify pet care and veterinary appointments.
+</div>
 
-- Pet profiles and management
-- Appointment scheduling
-- Veterinarian assignment
-- JWT authentication and role-based access
+---
 
-**Stack:** React · Node.js · Express · PostgreSQL
+## 🚀 Currently Building
+
+### 🌙 NØX — Nightlife Management
+Nightclub management platform with QR reservations,
+table assignments, authentication and reporting.
+
+**Tech:** React · Node.js · Express · PostgreSQL
+
+### 🐾 BraunVel — Veterinary Platform
+Veterinary management system with pet profiles,
+appointment scheduling and role-based authentication.
+
+**Tech:** React · Node.js · Express · PostgreSQL
 
 ### ✨ IshaVel — Astrology Platform
-A web application for personalized natal chart experiences.
+Personalized astrology application with zodiac
+calculations and natal chart management.
 
-- User authentication and profiles
-- Zodiac sign calculation
-- Natal chart data management
-- Relational database design
-
-**Stack:** React · Node.js · Express · PostgreSQL
+**Tech:** React · Node.js · Express · PostgreSQL
 
 ---
 
-## 📊 GitHub Statistics
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pardov21&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="David Pardo GitHub Stats" />
-</div>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
+## 🎯 Engineering Focus
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/pardov21/pardov21/output/github-contribution-grid-snake-dark.svg)
+![Backend](https://img.shields.io/badge/Backend-Development-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=green)
+![Databases](https://img.shields.io/badge/Database-Architecture-0D1117?style=for-the-badge&logo=postgresql&logoColor=blue)
+![Analytics](https://img.shields.io/badge/Data-Analytics-0D1117?style=for-the-badge&logo=powerbi&logoColor=yellow)
 
 </div>
 
----
 
 ## 🤝 Let's Connect
 
